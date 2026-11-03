@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "category": "Wi-Fi",
+        "title": "자취방 wifi",
+        "content": "ftxqapuuuh12345",
+        "content_hash": "ce9812bac383f505be52243e231e8437c72b8b98404c9883e640120dc481b27f",
+        "encryption_method": "KEYWORD",
+        "created_at": "2026-09-28T18:53:30",
+        "updated_at": "2026-09-28T18:53:30"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "date": "2026-06-15",
+        "title": "종강하고싶다",
+        "content": "종강하고싶다로블록스하고싶다술먹고싶다",
+        "mood": "😢",
+        "tags": [
+            "학교",
+            "종강"
+        ],
+        "is_encrypted": false,
+        "encryption_method": null,
+        "content_hash": null,
+        "created_at": "2026-09-28T18:42:19",
+        "updated_at": "2026-09-28T18:42:19"
+    },
+    {
+        "id": 2,
+        "date": "2026-07-20",
+        "title": "방학이당",
+        "content": "방학이라 하루종일 놀았당당",
+        "mood": "😊",
+        "tags": [
+            "일상",
+            "방학",
+            "행복"
+        ],
+        "is_encrypted": false,
+        "encryption_method": null,
+        "content_hash": null,
+        "created_at": "2026-09-28T18:43:10",
+        "updated_at": "2026-09-28T18:43:10"
+    },
+    {
+        "id": 3,
+        "date": "2026-08-25",
+        "title": "슬픈날ㅜㅜ",
+        "content": "헧얷졎닧.. 흔흔 갓힋 낛륿 벇렧?ㅋㅋ",
+        "mood": "😡",
+        "tags": [
+            "이별",
+            "우울",
+            "화남"
+        ],
+        "is_encrypted": true,
+        "encryption_method": "SHIFT",
+        "content_hash": "ae85c42e2c9c2d2146382fd3024ebcceee2ecb4d6b61dc4c599bc84acca989b4",
+        "created_at": "2026-09-28T18:45:03",
+        "updated_at": "2026-09-28T18:45:03"
+    },
+    {
+        "id": 4,
+        "date": "2026-09-25",
+        "title": "추석",
+        "content": "추석이당 살만 쪘다",
+        "mood": "😄",
+        "tags": [
+            "일상",
+            "명절",
+            "추석"
+        ],
+        "is_encrypted": false,
+        "encryption_method": null,
+        "content_hash": null,
+        "created_at": "2026-09-28T18:46:58",
+        "updated_at": "2026-09-28T18:46:58"
+    },
+    {
+        "id": 5,
+        "date": "2026-09-27",
+        "title": "구미복귀",
+        "content": "추석에 본가 갔다 다시 구미로 왔다 ㅜㅜ",
+        "mood": "😴",
+        "tags": [
+            "추석",
+            "학교",
+            "본가"
+        ],
+        "is_encrypted": false,
+        "encryption_method": null,
+        "content_hash": null,
+        "created_at": "2026-09-28T19:45:50",
+        "updated_at": "2026-09-28T19:45:50"
+    },
+    {
+        "id": 6,
+        "date": "2026-09-28",
+        "title": "프로젝트 테스트",
+        "content": "옧늛읃 앗혻홗 긳늨읇 탔잯핟 읿긳잨읇 맏듧엋닧.",
+        "mood": "😊",
+        "tags": [
+            "일상",
+            "학교"
+        ],
+        "is_encrypted": true,
+        "encryption_method": "SHIFT",
+        "content_hash": "7036971700ac761a165879d2151014f7f1b79b1337639f3f952c7deae00ee7bf",
+        "created_at": "2026-09-28T19:48:09",
+        "updated_at": "2026-09-28T19:48:09"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "1년 뒤 나에게",
+        "content": "앋녘 믻랛읛 낛앿",
+        "content_hash": "cb9c51de832d9599ec4f93d7ed6a4bb7fe2a982cb8be210a205bb5bd85a25325",
+        "created_date": "2026-09-28",
+        "open_date": "2027-09-28",
+        "encryption_method": "SHIFT",
+        "is_opened": true,
+        "created_at": "2026-09-28T18:52:12",
+        "opened_at": "2027-09-28T18:52:40"
+    },
+    {
+        "id": 2,
+        "title": "미래의 나에게",
+        "content": "안녤",
+        "content_hash": "e8f817f346d1d411cc59d5bdda64fab3763890e1f0f8f4c15805cf78874d68bf",
+        "created_date": "2026-09-28",
+        "open_date": "2027-09-28",
+        "encryption_method": "KEYWORD",
+        "is_opened": true,
+        "created_at": "2026-09-28T19:50:06",
+        "opened_at": "2027-09-28T19:50:41"
+    }
+]
